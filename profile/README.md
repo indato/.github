@@ -1,4 +1,6 @@
-![Logo Indato-rgb-500x194](https://github.com/user-attachments/assets/339b7abc-15d1-4863-acf2-c20b5373d151)
+<p align="center">
+  <img width="500" height="194" src="https://github.com/user-attachments/assets/339b7abc-15d1-4863-acf2-c20b5373d151">
+</p>
 
 # Software Entwicklung
 Wir entwicklen mit grosser Leidenschaft und viel Know-how wartbare und zweckmässige Applikationen, basierend auf Java und Open Source Software. Bestehende Applikationen optimieren wir aufgrund von geänderten Anforderungen oder steigender Systemkomplexität.
